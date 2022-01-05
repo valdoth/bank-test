@@ -1,0 +1,23 @@
+body {
+  background-color: crimson;
+}
+body form {
+  background-color: gray;
+  margin: auto;
+}
+body form div h1 .title {
+  background-color: #a39f9f;
+  width: 100vw;
+}
+body form div h1 .test {
+  background-color: crimson;
+  padding: auto;
+  margin: auto;
+}
+body form div #note {
+  color: #a39f9f;
+  font-size: x-small;
+}
+body form div span {
+  color: gray;
+}/*# sourceMappingURL=main.css.map */

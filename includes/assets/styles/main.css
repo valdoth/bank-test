@@ -1,0 +1,14 @@
+body form {
+  background-color: #e9d5d5;
+  margin: auto;
+}
+body form div h1 {
+  background-color: gray;
+}
+body form div #note {
+  color: #a39f9f;
+  font-size: x-small;
+}
+body form div span {
+  color: gray;
+}/*# sourceMappingURL=main.css.map */

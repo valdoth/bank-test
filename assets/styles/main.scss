@@ -1,0 +1,25 @@
+body {
+    background-color: crimson;
+    form {
+        background-color: gray;
+        margin: auto;
+        div {
+            h1 .title{
+                background-color: rgb(163, 159, 159);
+                width:100vw;
+            }
+            h1 .test {
+                background-color: crimson;
+                padding: auto;
+                margin: auto;
+            }
+            #note {
+                color: rgb(163, 159, 159);
+                font-size:x-small;
+            }
+            span {
+                color: gray;
+            }
+        }
+    }
+}
